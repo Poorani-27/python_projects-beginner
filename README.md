@@ -1,4 +1,5 @@
 # Python Projects Repository
+> "The only way to do great work is to love what you do." - Steve Jobs
 
 Welcome to my Python Projects repository! Here, I document and share various Python projects that I've worked on during my learning journey. As I grow, this repository will reflect my progress and the challenges I've overcome. 
 
@@ -32,7 +33,6 @@ To get started with my projects, follow these simple steps:
 
 ## Stay Consistent and Motivated
 
-> "The only way to do great work is to love what you do." - Steve Jobs
 
 > "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it." - Patrick McKenzie
 
