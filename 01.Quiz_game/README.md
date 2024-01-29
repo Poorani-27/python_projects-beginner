@@ -1,7 +1,7 @@
 ﻿# PYTHON_PROJECTS
 # Python Quiz Game
 
->### "Learning by doing is not only the most effective but also the most fun."
+>### <h4 align="center"> Learning by doing is not only the most effective but also the most fun." </h4>
 
 
 Welcome to the Python Quiz Game, a project designed to make learning Python more engaging and fun.
