@@ -1,4 +1,8 @@
 # Simple Calculator Python Script
+## Stay Consistent and Motivated
+
+
+> "It's not that I'm so smart, it's just that I stay with problems longer." - Albert Einstein
 
 A basic calculator script that performs addition, subtraction, multiplication, and division on two numbers.
 
@@ -36,9 +40,6 @@ This project is a simple calculator implemented in Python. It allows users to pe
     - To quit: Enter `q`.
 
 
-## Stay Consistent and Motivated
 
-
-> "It's not that I'm so smart, it's just that I stay with problems longer." - Albert Einstein
 
 ![](Untitled.png)
