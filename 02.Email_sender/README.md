@@ -30,9 +30,6 @@ This project is a part of my Python learning journey, focusing on practical appl
     ```
     - Enter the recipient's email, subject, and message when prompted.
 
-## Contributing
-
-If you have ideas for improvement or find any issues, feel free to contribute! Follow the standard [contribution guidelines](CONTRIBUTING.md).
 
 ## Stay Consistent and Motivated
 
