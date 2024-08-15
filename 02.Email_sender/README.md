@@ -4,7 +4,7 @@ This Python script allows you to send emails using the `smtplib` library. It's a
 
 > "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do." - Steve Jobs
 
-## Introduction
+### Introduction
 
 This project is a part of my Python learning journey, focusing on practical applications. The Email Sender script enables you to send emails from a specified Gmail account to any valid email address.
 
